@@ -1,0 +1,6 @@
+fastapi
+hypercorn
+uvicorn
+requests
+pillow
+reportlab
